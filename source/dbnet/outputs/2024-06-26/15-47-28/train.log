@@ -1,7 +1,0 @@
-[2024-06-26 15:47:28,555][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - /content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/logs/1719416848
-[2024-06-26 15:47:28,569][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - cpu
-[2024-06-26 15:47:28,964][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - Loading best checkpoint: /content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/weights/best_pretrained_dbnet.pth
-[2024-06-26 15:47:30,933][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - Learning rate scheduler: poly
-[2024-06-26 15:47:30,934][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - Dataset name: mix
-[2024-06-26 15:47:30,934][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - Ignore tags: ['***']
-[2024-06-26 15:49:15,576][/content/gdrive/MyDrive/Teaching/codes/ocr_27062024/text_detection/src/DB_text_minimal/train.log][INFO] - Start training!

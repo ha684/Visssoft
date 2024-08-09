@@ -1,7 +1,0 @@
-[2024-06-23 23:25:56,397][../data/dbnet_text_data/train/train.log][INFO] - ../data/dbnet_text_data/train/logs/1719159956
-[2024-06-23 23:25:57,169][numexpr.utils][INFO] - Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
-[2024-06-23 23:25:57,169][numexpr.utils][INFO] - NumExpr defaulting to 8 threads.
-[2024-06-23 23:25:57,761][../data/dbnet_text_data/train/train.log][INFO] - cuda
-[2024-06-23 23:25:59,703][../data/dbnet_text_data/train/train.log][INFO] - Learning rate scheduler: poly
-[2024-06-23 23:25:59,704][../data/dbnet_text_data/train/train.log][INFO] - Dataset name: mix
-[2024-06-23 23:25:59,704][../data/dbnet_text_data/train/train.log][INFO] - Ignore tags: ['***']

@@ -9,9 +9,9 @@ from craft_predict import copyStateDict
 from refinenet import RefineNet
 
 # ============================================================
-trained_model = './weights/craft_mlt_25k.pth'
+trained_model = './weight/craft_mlt_25k.pth'
 device = torch.device('cuda:0' if torch.cuda.is_available() else'cpu')
-refiner_model = './weights/craft_refiner_CTW1500.pth'
+refiner_model = './weight/craft_refiner_CTW1500.pth'
 # ============================================================
 def load_model_craft():
     

@@ -1,4 +1,7 @@
+# exclude virtual env
 myenv
+env/
+
 __pycache__
 Poppler
 weights
