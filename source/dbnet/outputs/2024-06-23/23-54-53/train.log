@@ -1,0 +1,26 @@
+[2024-06-23 23:54:53,059][../data/dbnet_text_data/train/train.log][INFO] - ../data/dbnet_text_data/train/logs/1719161693
+[2024-06-23 23:54:53,869][numexpr.utils][INFO] - Note: NumExpr detected 48 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-06-23 23:54:53,869][numexpr.utils][INFO] - NumExpr defaulting to 8 threads.
+[2024-06-23 23:54:54,479][../data/dbnet_text_data/train/train.log][INFO] - cuda
+[2024-06-23 23:54:56,414][../data/dbnet_text_data/train/train.log][INFO] - Learning rate scheduler: poly
+[2024-06-23 23:54:56,414][../data/dbnet_text_data/train/train.log][INFO] - Dataset name: mix
+[2024-06-23 23:54:56,415][../data/dbnet_text_data/train/train.log][INFO] - Ignore tags: ['***']
+[2024-06-23 23:54:58,153][../data/dbnet_text_data/train/train.log][INFO] - Start training!
+[2024-06-23 23:55:25,699][../data/dbnet_text_data/train/train.log][INFO] - [1-50] - lr: 0.020900009155628597 - total_loss: 1.2827537059783936 - loss: 0.9339756965637207 - acc: 0.7747000157735349 - iou: 0.40241089049206114
+[2024-06-23 23:55:52,503][../data/dbnet_text_data/train/train.log][INFO] - [1-100] - lr: 0.03935878464795264 - total_loss: 1.1597462892532349 - loss: 0.861328661441803 - acc: 0.8412908722481702 - iou: 0.4948706069502312
+[2024-06-23 23:56:19,402][../data/dbnet_text_data/train/train.log][INFO] - [1-150] - lr: 0.05686403139565411 - total_loss: 1.1942875385284424 - loss: 0.8558977246284485 - acc: 0.8647712764156226 - iou: 0.5390445616706168
+[2024-06-23 23:56:45,817][../data/dbnet_text_data/train/train.log][INFO] - [1-200] - lr: 0.07377985087770964 - total_loss: 1.1974023580551147 - loss: 0.8706355094909668 - acc: 0.8779174722046893 - iou: 0.5676620711526841
+[2024-06-23 23:57:12,545][../data/dbnet_text_data/train/train.log][INFO] - [1-250] - lr: 0.09027124178501493 - total_loss: 1.0753281116485596 - loss: 0.7809103727340698 - acc: 0.8853995162935718 - iou: 0.5884102595368025
+[2024-06-23 23:57:40,118][../data/dbnet_text_data/train/train.log][INFO] - [1-300] - lr: 0.10643245353119875 - total_loss: 1.1361815929412842 - loss: 0.8206976056098938 - acc: 0.891153836854808 - iou: 0.6054355917657457
+[2024-06-23 23:58:07,686][../data/dbnet_text_data/train/train.log][INFO] - [1-350] - lr: 0.12232434208243959 - total_loss: 1.1946985721588135 - loss: 0.8703775405883789 - acc: 0.8944695277739914 - iou: 0.6186741117569823
+[2024-06-23 23:58:34,711][../data/dbnet_text_data/train/train.log][INFO] - [1-400] - lr: 0.13798936320202612 - total_loss: 1.2660101652145386 - loss: 0.9241443276405334 - acc: 0.8972624739219692 - iou: 0.6296203269112397
+[2024-06-23 23:59:01,298][../data/dbnet_text_data/train/train.log][INFO] - [1-450] - lr: 0.15345876940274403 - total_loss: 1.0315537452697754 - loss: 0.7657528519630432 - acc: 0.8993683215616546 - iou: 0.6388459984269493
+[2024-06-23 23:59:28,407][../data/dbnet_text_data/train/train.log][INFO] - [1-500] - lr: 0.16875649449625788 - total_loss: 1.1203815937042236 - loss: 0.8453429937362671 - acc: 0.9009144426639599 - iou: 0.6466438269686212
+[2024-06-23 23:59:55,114][../data/dbnet_text_data/train/train.log][INFO] - [1-550] - lr: 0.1839014334118857 - total_loss: 1.0808930397033691 - loss: 0.7797385454177856 - acc: 0.9025789874234293 - iou: 0.6537499666606594
+[2024-06-24 00:00:21,828][../data/dbnet_text_data/train/train.log][INFO] - [1-600] - lr: 0.19890886739504368 - total_loss: 1.1243340969085693 - loss: 0.8399884700775146 - acc: 0.9035099528807942 - iou: 0.6592538645055348
+[2024-06-24 00:00:48,436][../data/dbnet_text_data/train/train.log][INFO] - [1-650] - lr: 0.21379140010691913 - total_loss: 1.0327143669128418 - loss: 0.7669881582260132 - acc: 0.9048525873091671 - iou: 0.6647469394841597
+[2024-06-24 00:00:58,147][../data/dbnet_text_data/train/train.log][INFO] - Train loss: 1.2413480281829834
+[2024-06-24 00:03:23,842][../data/dbnet_text_data/train/train.log][INFO] - TEST/Recall: 0.7072858472998138 - TEST/Precision: 0.8947290930506479 - TEST/HMean: 0.7900415967325172
+[2024-06-24 00:03:23,843][../data/dbnet_text_data/train/train.log][INFO] - [669] - test_loss: 1.0011368989944458
+[2024-06-24 00:03:24,438][../data/dbnet_text_data/train/train.log][INFO] - Training completed
+[2024-06-24 00:03:24,523][../data/dbnet_text_data/train/train.log][INFO] - Saved model
